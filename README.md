@@ -6,11 +6,15 @@ A function called ErgodicCapacity has been developed. This function takes inputs
 
 ## Ergodic Capacity formula:
 
-<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/97674a3a-a6c1-401f-876e-d8d143f681c3" alt="alg" width="400">
+<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/29471865-9763-47de-9b50-0d21e1d282b1" alt="alg" width="400">
 
 ## Outputs:
 
-<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/e0933dd7-b698-4ced-9af1-7576c104faea" alt="alg" width="400">
+<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/f5861004-8671-495c-a6a8-b74bae06c397" alt="Nr" width="400">
+
+<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/219575a5-4861-4360-a7a0-755ca2e6b731" alt="Nt" width="400">
+
+<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/ba724ec1-541f-4f0a-acd6-80e3c90b2c6b" alt="NrNt" width="400">
 
 ## Reference:
 This simulation is based on Chapter 3 of the book ["Introduction to MIMO Communications" by Jerry R. Hampton](https://www.google.com/books/edition/Introduction_to_MIMO_Communications/Ee_CAQAAQBAJ?hl=en&gbpv=0)
