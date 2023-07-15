@@ -19,7 +19,3 @@ A function called ErgodicCapacity has been developed. This function takes inputs
 ## Reference:
 This simulation is based on Chapter 3 of the book ["Introduction to MIMO Communications" by Jerry R. Hampton](https://www.google.com/books/edition/Introduction_to_MIMO_Communications/Ee_CAQAAQBAJ?hl=en&gbpv=0)
 
-<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/e51f6b2c-ac01-475e-89c6-f1d58d80fc5e" alt="alg" width="400">
-
-<img src="https://github.com/RGAlavicheh/Comparing-the-ergodic-capacity-between-MISO-and-SIMO-systems./assets/94162828/dc9a2927-d9b1-4af4-afae-30d95f1a43d9" alt="alg" width="400">
-
