@@ -1,4 +1,4 @@
-%% Tamrin 3.9 Hampton | RezaGhasemi | 99615123
+%% 3.9 Hampton | RezaGhasemi |
 function [C, Nr_vec] = ErgodicCapacity(SNRdB,Nt,Nr,Niter)
 flag = 0;
 if Nt>Nr
